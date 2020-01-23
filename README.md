@@ -1,2 +1,2 @@
 # Apache-Spark
-Apache spark use cases
+Apache spark use case
