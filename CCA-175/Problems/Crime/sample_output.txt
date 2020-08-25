@@ -1,0 +1,26 @@
+scala> result.show+------+-----+--------------------+
+
+|  Date|Count|        Primary Type|
++------+-----+--------------------+
+|200101| 7866|               THEFT|
+|200101| 6525|             BATTERY|
+|200101| 4714|           NARCOTICS|
+|200101| 3966|     CRIMINAL DAMAGE|
+|200101| 2799|       OTHER OFFENSE|
+|200101| 2123|             ASSAULT|
+|200101| 2095| MOTOR VEHICLE THEFT|
+|200101| 1934|            BURGLARY|
+|200101| 1396|             ROBBERY|
+|200101| 1387|  DECEPTIVE PRACTICE|
+|200101| 1191|   CRIMINAL TRESPASS|
+|200101|  563|        PROSTITUTION|
+|200101|  337|   WEAPONS VIOLATION|
+|200101|  239|OFFENSE INVOLVING...|
+|200101|  218|         SEX OFFENSE|
+|200101|  162| CRIM SEXUAL ASSAULT|
+|200101|  161|PUBLIC PEACE VIOL...|
+|200101|  101|LIQUOR LAW VIOLATION|
+|200101|   75|          KIDNAPPING|
+|200101|   67|               ARSON|
++------+-----+--------------------+
+only showing top 20 rows
